@@ -2,7 +2,7 @@ import os
 import cv2
 
 
-path = "C:/Users/haiha/OneDrive/Desktop/python_code/PRO-C105-Student-Boilerplate-main/Images"
+path = "C:/Users/haiha/OneDrive/Desktop/Images"
 
 images = []
 
